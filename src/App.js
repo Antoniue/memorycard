@@ -1,8 +1,11 @@
 import './App.css';
+import { GameBox } from './components/GameBox';
 
 function App() {
   return (
-    <div className="App"></div>
+    <div className="App">
+      <GameBox />
+    </div>
   );
 }
 
