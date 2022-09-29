@@ -1,4 +1,5 @@
-import './GameBox.css'
+import './GameBox.css';
+
 function GameBox(){
     return(
         <div className="box">

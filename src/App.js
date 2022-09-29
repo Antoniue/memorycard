@@ -1,5 +1,5 @@
 import './App.css';
-import { GameBox } from './components/GameBox';
+import { GameBox } from './components/GameBox/GameBox';
 
 function App() {
   return (
