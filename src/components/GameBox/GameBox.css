@@ -22,6 +22,7 @@ ul{
 .card{
     border: 5px solid black;
     background-color: green;
+    cursor: grab;
 }
 li{
     height: 100%;
